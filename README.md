@@ -28,11 +28,14 @@
 È semplicissimo, non serve alcuna configurazione tecnica.
 
 1.  **Scarica il Gioco:**
-    Vai nella sezione **Releases** (a destra su questa pagina) e scarica l'ultimo file di installazione **`TriviaPath_Setup.msi`**.
+    Scarica l'ultimo file di installazione **`TriviaPath_Setup.msi`** direttamente da questo link:
+    👉 **[SCARICA L'INSTALLER QUI (Google Drive)](https://drive.google.com/file/d/1bN-Ujwa0TXeQ19UIVHxU5j9n4rBwnwnC/view?usp=sharing)**
+
 2.  **Installa:**
-    Apri il file scaricato e segui la procedura guidata di Windows.
+    Apri il file scaricato e segui la procedura guidata di Windows. Durante l'installazione potrai selezionare la cartella di destinazione in cui installare il gioco.
+
 3.  **Gioca!**
-    Troverai l'icona di **Trivia Path** sul tuo Desktop o nel menu Start.
+    Una volta terminato, troverai l'icona di **Trivia Path** sul tuo Desktop o nel menu Start. Non è necessaria alcuna API Key o configurazione aggiuntiva.
 
 ---
 
