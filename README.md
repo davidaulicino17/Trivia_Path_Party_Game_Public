@@ -28,16 +28,14 @@
 È semplicissimo, non serve alcuna configurazione tecnica.
 
 1.  **Scarica il Gioco:**
-    Vai nella sezione **Releases** (a destra su questa pagina) e scarica l'ultimo file di installazione **`TriviaPath_Setup.msi`**.
-2.  **Installa:**
-    Apri il file scaricato e segui la procedura guidata di Windows.
-3.  **Gioca!**
-    Troverai l'icona di **Trivia Path** sul tuo Desktop o nel menu Start.
+    Scarica l'ultimo file di installazione **`TriviaPath_Setup.msi`** direttamente da questo link:
+    👉 **[SCARICA L'INSTALLER QUI (Google Drive)](https://drive.google.com/file/d/1bN-Ujwa0TXeQ19UIVHxU5j9n4rBwnwnC/view?usp=sharing)**
 
-> **⚠️ Nota Importante al Primo Avvio:**
-> Il gioco utilizza l'Intelligenza Artificiale di Google. Al primissimo avvio, ti verrà chiesto di inserire la tua **Google Gemini API Key**.
-> * È gratuita e si ottiene in pochi secondi su [aistudio.google.com](https://aistudio.google.com/).
-> * Una volta inserita, il gioco la memorizzerà per sempre.
+2.  **Installa:**
+    Apri il file scaricato e segui la procedura guidata di Windows. Durante l'installazione potrai selezionare la cartella di destinazione in cui installare il gioco.
+
+3.  **Gioca!**
+    Una volta terminato, troverai l'icona di **Trivia Path** sul tuo Desktop o nel menu Start. Non è necessaria alcuna API Key o configurazione aggiuntiva.
 
 ---
 
