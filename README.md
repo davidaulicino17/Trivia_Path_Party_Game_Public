@@ -10,7 +10,7 @@
 ### 🎬 Gameplay Trailer
 **Guarda il trailer ufficiale del gameplay:**
 
-👉 **[Clicca qui per riprodurre: TRIVIA_PATH_TRAILER.mp4](TRIVIA_PATH_TRAILER.mp4)**
+🎥 **[CLICCA QUI PER GUARDARE IL TRAILER SU YOUTUBE](https://youtu.be/_0ERndw_HRE)**
 
 ---
 
