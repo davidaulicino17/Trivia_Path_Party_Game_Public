@@ -10,7 +10,9 @@
 ### 🎬 Gameplay Trailer
 **Guarda il trailer ufficiale del gameplay:**
 
-👉 **[Clicca qui per riprodurre: TRIVIA_PATH_TRAILER.mp4](TRIVIA_PATH_TRAILER.mp4)**
+🎥 **[CLICCA QUI PER APRIRE IL VIDEO TRAILER](TRIVIA_PATH_TRAILER.mp4)**
+
+*(Nota: Cliccando verrai reindirizzato al player video di GitHub)*
 
 ---
 
@@ -33,6 +35,11 @@
     Apri il file scaricato e segui la procedura guidata di Windows.
 3.  **Gioca!**
     Troverai l'icona di **Trivia Path** sul tuo Desktop o nel menu Start.
+
+> **⚠️ Nota Importante al Primo Avvio:**
+> Il gioco utilizza l'Intelligenza Artificiale di Google. Al primissimo avvio, ti verrà chiesto di inserire la tua **Google Gemini API Key**.
+> * È gratuita e si ottiene in pochi secondi su [aistudio.google.com](https://aistudio.google.com/).
+> * Una volta inserita, il gioco la memorizzerà per sempre.
 
 ---
 
