@@ -29,7 +29,7 @@
 
 1.  **Scarica il Gioco:**
     Scarica l'ultimo file di installazione **`TriviaPath_Setup.msi`** direttamente da questo link:
-    👉 **[SCARICA L'INSTALLER QUI (Google Drive)](https://drive.google.com/file/d/1bN-Ujwa0TXeQ19UIVHxU5j9n4rBwnwnC/view?usp=sharing)**
+    👉 **[SCARICA L'INSTALLER QUI (Google Drive)](https://drive.google.com/file/d/16N3Krhd7kY7z91dFg_CRGhUT132EeaCl/view?usp=drive_link)**
 
 2.  **Installa:**
     Apri il file scaricato e segui la procedura guidata di Windows. Durante l'installazione potrai selezionare la cartella di destinazione in cui installare il gioco.
